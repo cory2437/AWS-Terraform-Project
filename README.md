@@ -1,1 +1,1 @@
-# hello-world
+# This is for AWS Terraform project modules
